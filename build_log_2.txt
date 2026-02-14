@@ -1,0 +1,10 @@
+
+> real-estate-coach@0.0.0 build
+> tsc && vite build
+
+src/App.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/PersonaSelection.tsx(4,23): error TS1484: 'PersonaConfig' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/PersonaSelection.tsx(4,38): error TS2305: Module '"../store/useAppStore"' has no exported member 'generatePersonaConfig'.
+src/components/PersonaSelection.tsx(31,9): error TS2322: Type '"Investor"' is not assignable to type '"Buyer" | "Seller" | "Tenant" | "Landlord"'.
+src/components/ReportCard.tsx(10,21): error TS6133: 'setStep' is declared but its value is never read.
+src/components/SimulationMode.tsx(27,31): error TS2554: Expected 1 arguments, but got 0.

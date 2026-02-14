@@ -1,0 +1,370 @@
+src/App.tsx(1,19): error TS7016: Could not find a declaration file for module 'react'. 'C:/Users/user/OneDrive/Desktop/Mini Project/node_modules/react/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/react` if it exists or add a new declaration (.d.ts) file containing `declare module 'react';`
+src/App.tsx(3,29): error TS6142: Module './components/LandingPage' was resolved to 'C:/Users/user/OneDrive/Desktop/Mini Project/src/components/LandingPage.tsx', but '--jsx' is not set.
+src/App.tsx(4,27): error TS6142: Module './components/AuthModal' was resolved to 'C:/Users/user/OneDrive/Desktop/Mini Project/src/components/AuthModal.tsx', but '--jsx' is not set.
+src/App.tsx(5,34): error TS6142: Module './components/PersonaSelection' was resolved to 'C:/Users/user/OneDrive/Desktop/Mini Project/src/components/PersonaSelection.tsx', but '--jsx' is not set.
+src/App.tsx(6,32): error TS6142: Module './components/SimulationMode' was resolved to 'C:/Users/user/OneDrive/Desktop/Mini Project/src/components/SimulationMode.tsx', but '--jsx' is not set.
+src/App.tsx(7,28): error TS6142: Module './components/ReportCard' was resolved to 'C:/Users/user/OneDrive/Desktop/Mini Project/src/components/ReportCard.tsx', but '--jsx' is not set.
+src/App.tsx(13,9): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/App.tsx(13,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/App.tsx(14,43): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/App.tsx(17,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/App.tsx(18,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/App.tsx(19,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/App.tsx(23,53): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/App.tsx(25,46): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/App.tsx(27,42): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/App.tsx(28,9): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/AuthModal.tsx(1,33): error TS7016: Could not find a declaration file for module 'react'. 'C:/Users/user/OneDrive/Desktop/Mini Project/node_modules/react/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/react` if it exists or add a new declaration (.d.ts) file containing `declare module 'react';`
+src/components/AuthModal.tsx(18,9): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/AuthModal.tsx(18,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/AuthModal.tsx(19,13): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/AuthModal.tsx(19,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/AuthModal.tsx(20,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/AuthModal.tsx(20,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/AuthModal.tsx(20,88): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/AuthModal.tsx(21,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/AuthModal.tsx(21,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/AuthModal.tsx(21,128): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/AuthModal.tsx(23,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/AuthModal.tsx(23,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/AuthModal.tsx(24,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/AuthModal.tsx(24,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/AuthModal.tsx(25,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/AuthModal.tsx(25,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/AuthModal.tsx(25,102): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/AuthModal.tsx(26,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/AuthModal.tsx(26,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/AuthModal.tsx(30,40): error TS7006: Parameter 'e' implicitly has an 'any' type.
+src/components/AuthModal.tsx(34,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/AuthModal.tsx(35,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/AuthModal.tsx(35,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/AuthModal.tsx(36,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/AuthModal.tsx(36,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/AuthModal.tsx(36,106): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/AuthModal.tsx(37,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/AuthModal.tsx(37,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/AuthModal.tsx(41,40): error TS7006: Parameter 'e' implicitly has an 'any' type.
+src/components/AuthModal.tsx(45,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/AuthModal.tsx(47,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/AuthModal.tsx(47,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/AuthModal.tsx(52,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/AuthModal.tsx(53,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/AuthModal.tsx(54,13): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/AuthModal.tsx(55,9): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(1,19): error TS7016: Could not find a declaration file for module 'react'. 'C:/Users/user/OneDrive/Desktop/Mini Project/node_modules/react/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/react` if it exists or add a new declaration (.d.ts) file containing `declare module 'react';`
+src/components/LandingPage.tsx(10,9): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(10,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(12,13): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(12,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(13,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(13,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(14,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(14,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(15,13): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(17,13): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(17,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(18,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(23,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(23,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(24,40): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(24,40): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(24,144): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(25,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(26,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(26,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(27,62): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(27,62): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(29,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(32,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(38,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(39,31): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(43,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(44,31): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(48,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(49,31): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(55,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(61,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(61,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(62,44): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(63,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(64,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(64,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(66,13): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(68,13): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(68,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(70,13): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(71,9): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(75,90): error TS7031: Binding element 'icon' implicitly has an 'any' type.
+src/components/LandingPage.tsx(75,96): error TS7031: Binding element 'title' implicitly has an 'any' type.
+src/components/LandingPage.tsx(75,103): error TS7031: Binding element 'desc' implicitly has an 'any' type.
+src/components/LandingPage.tsx(76,5): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(76,5): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(77,9): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(77,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(77,73): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(78,9): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(78,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(78,87): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(79,9): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(79,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/LandingPage.tsx(79,72): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/LandingPage.tsx(80,5): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(1,33): error TS7016: Could not find a declaration file for module 'react'. 'C:/Users/user/OneDrive/Desktop/Mini Project/node_modules/react/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/react` if it exists or add a new declaration (.d.ts) file containing `declare module 'react';`
+src/components/PersonaSelection.tsx(4,23): error TS1484: 'PersonaConfig' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/PersonaSelection.tsx(4,38): error TS2305: Module '"../store/useAppStore"' has no exported member 'generatePersonaConfig'.
+src/components/PersonaSelection.tsx(31,9): error TS2322: Type '"Investor"' is not assignable to type '"Buyer" | "Seller" | "Tenant" | "Landlord"'.
+src/components/PersonaSelection.tsx(65,9): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(65,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(66,13): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(66,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(67,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(67,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(69,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(71,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(71,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(71,89): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(72,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(72,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(72,127): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(75,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(75,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(76,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(76,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(77,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(78,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(78,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(78,83): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(79,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(80,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(80,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(80,180): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(82,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(82,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(83,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(83,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(86,40): error TS7006: Parameter 'e' implicitly has an 'any' type.
+src/components/PersonaSelection.tsx(90,41): error TS7006: Parameter 'e' implicitly has an 'any' type.
+src/components/PersonaSelection.tsx(92,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(92,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(97,53): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(98,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(99,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(100,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(103,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(103,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(105,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(111,29): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(111,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(112,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(113,29): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(115,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(117,29): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(117,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(119,29): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(120,29): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(120,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(120,132): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(122,29): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(122,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(124,29): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(126,29): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(126,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(127,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(128,29): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(131,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(132,13): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(133,9): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(137,57): error TS7031: Binding element 'level' implicitly has an 'any' type.
+src/components/PersonaSelection.tsx(138,19): error TS7053: Element implicitly has an 'any' type because expression of type 'any' can't be used to index type '{ Beginner: string; Intermediate: string; Expert: string; Nightmare: string; }'.
+src/components/PersonaSelection.tsx(146,9): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/PersonaSelection.tsx(146,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/PersonaSelection.tsx(148,9): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(1,31): error TS7016: Could not find a declaration file for module 'react'. 'C:/Users/user/OneDrive/Desktop/Mini Project/node_modules/react/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/react` if it exists or add a new declaration (.d.ts) file containing `declare module 'react';`
+src/components/ReportCard.tsx(10,21): error TS6133: 'setStep' is declared but its value is never read.
+src/components/ReportCard.tsx(33,9): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(33,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(34,13): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(34,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(36,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(36,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(37,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(37,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(37,100): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(38,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(38,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(39,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(39,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(40,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(41,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(42,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(42,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(46,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(47,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(48,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(49,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(52,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(52,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(54,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(54,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(55,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(55,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(56,29): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(56,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(56,120): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(57,29): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(57,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(57,133): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(58,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(59,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(59,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(60,29): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(60,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(60,96): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(61,29): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(61,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(61,110): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(62,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(63,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(66,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(66,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(67,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(68,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(69,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(70,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(71,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(72,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(75,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(75,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(76,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(76,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(77,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(78,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(79,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(79,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(81,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(82,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(86,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(86,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(87,29): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(87,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(88,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(89,29): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(90,29): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(90,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(94,29): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(95,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(99,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(99,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(100,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(100,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(100,83): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(101,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(101,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(103,33): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(103,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(104,37): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(104,37): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(105,41): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(105,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(107,41): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(108,58): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(108,58): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(108,131): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(108,181): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(109,37): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(110,37): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(110,37): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(110,111): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(113,41): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(118,45): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(118,45): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(118,102): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(118,155): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(122,33): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(124,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(125,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(126,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(127,13): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(128,9): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(132,87): error TS7031: Binding element 'label' implicitly has an 'any' type.
+src/components/ReportCard.tsx(132,94): error TS7031: Binding element 'score' implicitly has an 'any' type.
+src/components/ReportCard.tsx(132,101): error TS7031: Binding element 'isLegal' implicitly has an 'any' type.
+src/components/ReportCard.tsx(139,9): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(139,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(140,13): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(140,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(140,68): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(141,13): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(141,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/ReportCard.tsx(141,74): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/ReportCard.tsx(142,9): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(1,52): error TS7016: Could not find a declaration file for module 'react'. 'C:/Users/user/OneDrive/Desktop/Mini Project/node_modules/react/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/react` if it exists or add a new declaration (.d.ts) file containing `declare module 'react';`
+src/components/SimulationMode.tsx(45,31): error TS7006: Parameter 'prev' implicitly has an 'any' type.
+src/components/SimulationMode.tsx(126,9): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(126,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(128,13): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(128,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(131,13): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(131,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(132,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(132,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(133,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(133,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(133,77): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(134,13): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(136,13): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(136,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(139,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(139,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(140,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(140,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(141,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(142,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(143,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(143,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(144,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(144,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(144,84): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(145,25): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(145,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(145,142): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(146,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(147,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(150,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(150,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(151,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(151,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(152,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(155,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(155,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(156,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(157,52): error TS7006: Parameter 't' implicitly has an 'any' type.
+src/components/SimulationMode.tsx(157,55): error TS7006: Parameter 'i' implicitly has an 'any' type.
+src/components/SimulationMode.tsx(158,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(164,33): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(164,33): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(166,33): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(170,49): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(170,49): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(170,123): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(171,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(174,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(174,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(175,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(175,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(179,36): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(179,69): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(180,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(182,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(182,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(186,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/components/SimulationMode.tsx(187,21): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(188,17): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(189,13): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
+src/components/SimulationMode.tsx(190,9): error TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.
