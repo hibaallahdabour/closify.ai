@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-luxury-off-white text-luxury-navy font-sans antialiased text-base selection:bg-luxury-gold selection:text-white;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+}
+
+@layer utilities {
+  .glass-card {
+    @apply bg-white/80 backdrop-blur-md border border-white/20 shadow-xl rounded-2xl;
+  }
+  
+  .glass-card-dark {
+    @apply bg-luxury-charcoal/80 backdrop-blur-md border border-white/10 shadow-xl rounded-2xl text-white;
+  }
+  
+  .luxury-gradient {
+    @apply bg-gradient-to-r from-luxury-navy to-luxury-charcoal;
+  }
+  
+  .gold-gradient {
+    @apply bg-gradient-to-r from-luxury-gold to-luxury-gold-light;
+  }
+
+  .text-gold-gradient {
+      @apply bg-clip-text text-transparent bg-gradient-to-r from-luxury-gold-dark to-luxury-gold;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-luxury-gold/30 rounded-full hover:bg-luxury-gold/50 transition-colors;
+}
